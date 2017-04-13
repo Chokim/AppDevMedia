@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">App DevMedia</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Você esta na sessão: %1$d</string>
+
+    <!-- Strings referentes aos fragmentos-->
+    <string name="fragmentPerfil">Fragment Perfil</string>
+    <string name="fragmentProdutos">Fragment Produtos</string>
+    <!-- Strings referentes a tela de login-->
+    <string name="lbl_login">Login</string>
+    <string name="lbl_senha">Senha</string>
+    <string name="lbl_sair">Sair</string>
+    <string name="btn_logar">Logar</string>
+
+    <!-- Strings referentes a tela de perfil de pessoas-->
+    <string name="txtName">Nome:</string>
+    <string name="txtEmail">Email:</string>
+    <string name="txtBio">Mini Bio:</string>
+    <string name="rbtMasculino">Masculino</string>
+    <string name="rbtFeminino">Feminino</string>
+    <string name="spnProfissao">Profissão</string>
+    <string name="btnCadastrar">Cadastrar</string>
+    <string name ="txtSexo0">Sexo</string>
+    <string name="textview">TextView</string>
+
+</resources>
